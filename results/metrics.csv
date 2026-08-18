@@ -1,0 +1,2 @@
+model,validation_PSNR_dB,validation_SSIM,validation_LPIPS,best_epoch,best_training_PSNR_dB,best_training_SSIM,HF_weight
+NAFNet + HF Loss,27.85671518743038,0.7485266501856611,0.2694195855932776,19,27.856714710593224,0.7485266501856611,0.05

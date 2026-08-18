@@ -1,0 +1,19 @@
+{
+    "model": "NAFNet + HF Loss",
+    "validation": {
+        "num_images": 640,
+        "PSNR_dB": 27.85671518743038,
+        "SSIM": 0.7485266501856611,
+        "LPIPS": 0.2694195855932776
+    },
+    "training": {
+        "best_epoch": 19,
+        "best_PSNR_dB": 27.856714710593224,
+        "best_SSIM": 0.7485266501856611,
+        "HF_weight": 0.05
+    },
+    "runtime": {
+        "validation_time_seconds": 8.884259413999644,
+        "hardware": "Tesla T4"
+    }
+}
